@@ -1,5 +1,5 @@
 import { NumberBuilder } from "./NumberBuilder";
-import { AddCalculator } from "./AddCalculator";
+//import { AddCalculator } from "./AddCalculator";
 
 const App = () => {
   return (
@@ -9,9 +9,9 @@ const App = () => {
       <br></br>
       <br></br>
       <br></br>
-      ------------------------------------
+      {/* ------------------------------------
       <br></br>
-      <AddCalculator />
+      <AddCalculator /> */}
     </div>
   );
 }
